@@ -21,4 +21,6 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextClick(View view) {
         this.tvMain.setText("TextView text has changed!");
     }
+
+    //Some Next commit
 }
